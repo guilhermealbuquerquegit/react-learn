@@ -1,0 +1,29 @@
+{
+  "name": "curso-react-ninja",
+  "version": "1.0.0",
+  "description": "Projeto de estudos do curso de react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "reactjs",
+    "javascript"
+  ],
+  "author": "Guilherme Albuquerque",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-preset-env": "^1.7.0",
+    "create-react-class": "^15.6.3",
+    "webpack": "^1.15.0",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
